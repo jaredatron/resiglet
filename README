@@ -1,0 +1,6 @@
+jQuery Resiglet
+
+By Jared Grippe by heavily inspired by John Resig's http://ejohn.org/blog/javascript-micro-templating
+
+Why another templating plugin for jQuery?
+I needed a lightweight plugin that supported more then just replacing tokens
